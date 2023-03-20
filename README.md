@@ -4,7 +4,7 @@ O Vida Financeira é um projeto desenvolvido em JavaScript e React, com o objeti
 
 Toastfy: para criação de alertas para o usuário.
 
-UUID: para criação de IDS únicas para cada card.
+UUID: para criação de ID's únicas para cada card.
 
 ##
 
@@ -14,7 +14,7 @@ O Vida Financeira permite que os usuários cadastrem seus gastos mensais, especi
 
 ## Como Usar
 
-Para utilizar o Vida Financeira, é necessário entrar nesse link: <a href="vida-financeira.vercel.app" >Vida Financeira</a>
+Para utilizar o Vida Financeira, é necessário entrar nesse link: <a href="https://vida-financeira.vercel.app" >Vida Financeira</a>
 
 ## Contribuição
 
