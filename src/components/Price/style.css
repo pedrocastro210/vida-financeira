@@ -1,0 +1,62 @@
+.price {
+  width: 40vw;
+  height: 96px;
+
+  background: #ffffff;
+
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: -120px;
+}
+
+.price > div {
+  height: 50%;
+  margin-top: 8px;
+}
+
+.price > div > h4 {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 3px;
+
+  color: #212529;
+}
+
+.price > div > p {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 2px;
+
+  color: #343a40;
+}
+
+.price > h4 {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 12px;
+
+  color: #532b39;
+}
+
+@media (max-width: 835px) {
+  .price {
+    width: 90vw;
+  }
+}
+
+@media (max-width: 500px) {
+  .price {
+    position: relative;
+    width: 95vw;
+    height: 8rem;
+  }
+}
