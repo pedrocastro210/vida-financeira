@@ -1,3 +1,8 @@
 :root {
   --grey-4: #212529;
 }
+
+.dark_mode {
+  background-color: #c3c3c3;
+  color: #101010;
+}
